@@ -1,10 +1,10 @@
-# Legendary Octo
+## Legendary Octo
 
-### Godot automation build from Github to Yandex.Disk with Jenkins
-### Автоматизация сборки проектов Godot опубликованных на GitHub с помощью Jenkins.
+#### Godot automation build from Github to Yandex.Disk with Jenkins
+#### Автоматизация сборки проектов Godot опубликованных на GitHub с помощью Jenkins.
 
-- [youtube] - Playlist about the game development process
-- [zen.yandex] - Yandex zen channel
+- [youtube] - Плейлист на Youtube
+- [zen.yandex] - Канал на Яндекс дзен
 
 
 Эпизоды:
